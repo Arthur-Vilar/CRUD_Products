@@ -1,6 +1,4 @@
-#CRUD de produtos com Python e SQLite3
-
-Desenvolvi um sistema de gerenciamento de produtos utilizando Python e SQLite3.
+#Sistema de gerenciamenteo de produtos com Python e SQLite3
 
 O principal objetivo do projeto foi praticar operações CRUD (Create, Read, Update, Delete), manipulação de banco de dados e organização do código em funções reutilizáveis.
 
@@ -14,4 +12,3 @@ Como executar:
 - Baixe o arquivo/Clone o repositório
 - rode o arquivo 'products.py'.
 - O banco será criado automaticamente na primeira execução
-
